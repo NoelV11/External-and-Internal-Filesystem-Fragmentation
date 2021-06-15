@@ -1,6 +1,10 @@
 # External-and-Internal-Filesystem-Fragmentation-
 This program exhibits the memory management feature of OS, by implementing a filesystem.
 
+## Programming Language Used
+
+- C++
+
 ## Parameters - User defined
 
 - Number of files to be created
