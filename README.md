@@ -1,6 +1,13 @@
 # External-and-Internal-Filesystem-Fragmentation-
 This program exhibits the memory management feature of OS, by implementing a filesystem.
 
+## Parameters - User defined
+
+- Number of files to be created
+- Length of the file system to be created
+- Starting and ending blocks of a file system
+- Data to be entered into each file (alphanumerics,alphabets or numerics or 
+
 ## Functionalities provided:-
 - Allows users to create a filesystem, comprising of files
 - Delete files from filesystem to exhibit fragmentation
@@ -36,3 +43,7 @@ Output
    
 
 ![Output2](https://user-images.githubusercontent.com/77625109/122107741-065abe00-ce39-11eb-9080-5637687c884d.png)
+
+## Improvements
+
+This repository is open to the public,to collaborate and contribute.Get in touch with me and I would be more than happy
