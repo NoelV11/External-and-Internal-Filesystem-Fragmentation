@@ -1,4 +1,5 @@
-# External-and-Internal-Filesystem-Fragmentation-
+# External-and-Internal-Filesystem-Fragmentation
+![Lines of code](https://img.shields.io/tokei/lines/github/NoelV11/External-and-Internal-Filesystem-Fragmentation)
 This program exhibits the memory management feature of OS, by implementing a filesystem.
 
 ## Programming Language Used
